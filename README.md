@@ -1,16 +1,23 @@
-# appDenunciasFrond
+# 📱 appDenunciasFrond
 
-Aplicación Android para la gestión de denuncias.
+> Aplicación Android para la gestión de denuncias.
 
-## Tecnologías
+## ⚙️ Tecnologías
 
-- Kotlin
-- Android SDK (minSdk 30, targetSdk 36)
-- Retrofit + Gson
-- OkHttp (logging)
-- ViewBinding
-- Material Components
+| Tecnología | Detalle |
+|---|---|
+| 🟣 Kotlin | Lenguaje principal |
+| 🤖 Android SDK | minSdk 30 · targetSdk 36 |
+| 🌐 Retrofit | Cliente HTTP |
+| 📦 Gson | Serialización JSON |
+| 🔍 OkHttp | Logging de red |
+| 🎨 ViewBinding | Vinculación de vistas |
+| 💎 Material | Componentes UI |
 
-## Autor
+## 🚀 Ejecutar
+
+Abrir el proyecto en Android Studio y ejecutar en un emulador o dispositivo.
+
+## 👤 Autor
 
 **Manuel Fernandez Sandoval**
